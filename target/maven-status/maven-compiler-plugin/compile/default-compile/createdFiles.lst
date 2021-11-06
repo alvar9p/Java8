@@ -1,0 +1,8 @@
+apistream\Producto.class
+datetime\EjemploEdadNacimiento.class
+datetime\Instrucciones.class
+apistream\Instrucciones.class
+apistream\EjemploImporte.class
+lambda\Repeticion.class
+lambda\Instrucciones.class
+lambda\EjemploPalabraRepetida.class
